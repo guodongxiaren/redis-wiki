@@ -1,0 +1,23 @@
+"http://redis.io/":http://redis.io/
+
+[[Source Hacking Map]]
+
+
+"Some article About redis die in Chinese":http://www.hoterran.info/tag/redis
+
+"Everything about Redis 2.4":http://antirez.com/post/everything-about-redis-24.html
+
+"Redis资料汇总专题":http://blog.nosqlfan.com/html/3537.html
+
+"节约内存：Instagram的Redis实践":http://blog.nosqlfan.com/html/3379.html
+
+"Redis tutorial, April 2010":http://simonwillison.net/static/2010/redis-tutorial/
+
+"rediscookbook":http://rediscookbook.org/
+
+
+"ProtocolSpecification":http://code.google.com/p/redis/wiki/ProtocolSpecification
+
+"the pit of Redis":http://www.slideshare.net/tangfl/redis-9371197
+
+"Redis Windows packages":https://github.com/rgl/redis/downloads
