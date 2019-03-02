@@ -26,7 +26,7 @@ Linux平台下事件模型的实现
   - aeDeleteEventLoop
     - aeApiFree
   - aeCreateFileEvent
-    - aeApiAddFile
+    - aeApiAddEvent
   - aeDeleteFileEvent
     - aeApiDelEvent
   - aeProcessEvent
